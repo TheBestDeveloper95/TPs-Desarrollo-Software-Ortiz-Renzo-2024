@@ -19,6 +19,6 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 Renzo Ortiz
 
-🌐 Enlace a GitHub Pages
+🌐 Enlace a la pagina desplegada
 ```bash
 https://thebestdeveloper95.github.io/TPs-Desarrollo-Software-Ortiz-Renzo-2024/
